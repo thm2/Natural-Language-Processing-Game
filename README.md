@@ -20,4 +20,4 @@ In particular, the online hangman game is solved using n-grams, since they can b
 
 5) The letter with the maximum score is chosen to be the next guess as long as it has not been guessed before.
 
-6) The first guess is manually made so that it is always "a".
+6) The first guess is manually made so that it is always "a" (the letter "e" could be used as well).
